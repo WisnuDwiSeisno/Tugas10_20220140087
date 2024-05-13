@@ -1,0 +1,25 @@
+body{
+    margin: 0 auto;
+    font-family: sans-serif;
+    background-color: rgb(238, 238, 238);
+}
+
+form{
+    width: 100%;
+}
+
+legend{
+    text-align: center;
+}
+
+.back, a{
+    margin-top: 5px;
+    background-color: rgb(93, 131, 202);
+    color: white;
+    text-decoration: none;
+    width: 70px;
+    height: 40px;
+    border: transparent;
+    border-radius: 5px;
+    margin-left: 5px;
+}
